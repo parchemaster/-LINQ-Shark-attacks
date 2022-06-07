@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAJmHi5IU6cUpWPsdCvINQ8K22uU/4VT22Y8pdwGpdvXCJEn8WhwEST9x/cbgL9YhU3ORJMaocQ0gourwaFT9w==",
+  "success": true,
+  "projectFilePath": "/Users/Ivan/Downloads/Ivan_Sharai_PV178/HW03/src/PV178.Homeworks.HW03/PV178.Homeworks.HW03.csproj",
+  "expectedPackageFiles": [
+    "/Users/Ivan/.nuget/packages/csvhelper/15.0.2/csvhelper.15.0.2.nupkg.sha512",
+    "/Users/Ivan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

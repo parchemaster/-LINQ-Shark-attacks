@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=caac72ba_002D8c70_002D4098_002Da2a9_002D8b0c911e8463/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AttacksAtoGCountriesMaleBetweenFifteenAndFortyQuery_ReturnsCorrectResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::D783428C-0A08-4B93-A5A1-1FA56C486C36::net6.0::PV178.Homeworks.HW03.Tests.QueriesTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
